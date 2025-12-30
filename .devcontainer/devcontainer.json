@@ -1,4 +1,6 @@
 {
-        "name": "PlayWright with python",
-        "postCreateCommand": "python -m venv .venv && . .venv/bin/activate && pip install --upgrade pip && pip install playwright && playwright install --with-deps", 
+  "name": "Playwright with Python",
+  "image": "mcr.microsoft.com/devcontainers/python:3.10",
+  "postCreateCommand": "python -m venv .venv && . .venv/bin/activate && pip install --upgrade pip && pip install playwright && playwright install --with-deps"
 }
+
