@@ -22,3 +22,19 @@ Steps for instaling Playwright
 - To install playwright with pytest
   
       pip install pytest-playwright
+
+---
+**Practice Website** - **[practicesoftwaretesting.com](https://practicesoftwaretesting.com/)**
+
+**Default accounts**
+| First name | Last name| Role | E-mail | Password |
+|---|---|---|---|---|
+|John| Doe|	admin| admin@practicesoftwaretesting.com|	welcome01|
+|Jane| Doe|	user|	customer@practicesoftwaretesting.com|	welcome01|
+|Jack| Howe| user| customer2@practicesoftwaretesting.com|	welcome01|
+|Bob|	Smith| user | customer3@practicesoftwaretesting.com|	pass123|
+---
+
+
+---
+**Utilize the [RESOURCES.md](https://github.com/Kiran-Komroju/Playwright-5911873_LinkedIn-Learning/blob/main/RESOURCES.md) file to follow along with all the links to the course.**
